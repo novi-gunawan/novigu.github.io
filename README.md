@@ -41,7 +41,7 @@ I specialize in analyzing customer behavior, building dashboards, and presenting
 
 ## 🔹 Contact
 
-- Email: your@email.com  
+- Email: novigu1234@gmail.com  
 - Portfolio: [novi-gu.github.io](https://novi-gu.github.io)  
 - GitHub: [github.com/novi-gunawan](https://github.com/novi-gunawan)
 
